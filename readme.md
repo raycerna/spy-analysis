@@ -2,6 +2,8 @@
 
 This project downloads historical SPY ETF data using `yfinance`, performs basic data cleaning and transformation, generates simple visualizations, and exports the cleaned data to an Excel file.
 
+NOTE: This project is for educational and personal use. No financial advice implied.
+
 ---
 
 ## 📦 Requirements
